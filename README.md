@@ -1,3 +1,4 @@
+<img align="right" src="https://cdn.jsdelivr.net/gh/weiyouwozuiku/weiyouwozuiku@master/zen-logo.png" alt="禅" width="238px" height="275px" />
 ### My Status 👋
 
 <!--
@@ -15,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![weiyouwozuiku's github stats](https://github-readme-stats.vercel.app/api?username=weiyouwozuiku&show_icons=true&theme=tokyonight&hide=prs)
+🌱 I’m currently learning Computer Science!
+
+![weiyouwozuiku's github stats](https://github-readme-stats.vercel.app/api?username=weiyouwozuiku&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyouwozuiku&layout=compact&theme=tokyonight)
