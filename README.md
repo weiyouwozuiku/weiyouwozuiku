@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![weiyouwozuiku's github stats](https://github-readme-stats.vercel.app/api?username=weiyouwozuiku&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyouwozuiku&layout=compact&theme=tokyonight)
+
+![metrice](https://cdn.staticaly.com/gh/weiyouwozuiku/weiyouwozuiku/main/github-metrics.svg)
