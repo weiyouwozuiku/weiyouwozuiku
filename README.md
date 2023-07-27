@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyouwozuiku&layout=compact&theme=tokyonight)
 
-![snake](git@github.com:weiyouwozuiku/weiyouwozuiku.git)
+![snake](https://cdn.staticaly.com/gh/weiyouwozuiku/weiyouwozuiku/output/github-contribution-grid-snake.svg)
 
 ![metrice](https://cdn.staticaly.com/gh/weiyouwozuiku/weiyouwozuiku/main/github-metrics.svg)
